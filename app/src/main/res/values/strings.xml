@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Labyrinth</string>
+    <string name="strap_line_text">An amazeing game!</string>
+    <string name="overview_text">
+        The object of the game is simple - get out of the maze alive.
+        With as many body parts as you can!"</string>
+    <string name="play_button_text">Play</string>
 </resources>
